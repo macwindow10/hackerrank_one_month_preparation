@@ -9,7 +9,8 @@ namespace HackerRank
             //PlusMinus.execute();
             //MiniMaxSum.execute();
             //TimeConversion.execute();
-            MatchingStrings.execute();
+            //MatchingStrings.execute();
+            LonelyInteger.execute();
         }
     }
 }
