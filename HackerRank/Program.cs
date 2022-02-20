@@ -10,7 +10,9 @@ namespace HackerRank
             //MiniMaxSum.execute();
             //TimeConversion.execute();
             //MatchingStrings.execute();
-            LonelyInteger.execute();
+            //LonelyInteger.execute();
+            //FlippingBits.execute();
+            DiagonalDifference.execute();
         }
     }
 }
