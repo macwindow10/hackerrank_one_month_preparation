@@ -12,7 +12,8 @@ namespace HackerRank
             //MatchingStrings.execute();
             //LonelyInteger.execute();
             //FlippingBits.execute();
-            DiagonalDifference.execute();
+            //DiagonalDifference.execute();
+            CountingSort.execute();
         }
     }
 }
