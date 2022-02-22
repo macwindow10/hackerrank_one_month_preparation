@@ -13,7 +13,8 @@ namespace HackerRank
             //LonelyInteger.execute();
             //FlippingBits.execute();
             //DiagonalDifference.execute();
-            CountingSort.execute();
+            //CountingSort.execute();
+            Pangram.execute();
         }
     }
 }
