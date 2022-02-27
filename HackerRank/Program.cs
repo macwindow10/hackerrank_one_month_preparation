@@ -14,7 +14,9 @@ namespace HackerRank
             //FlippingBits.execute();
             //DiagonalDifference.execute();
             //CountingSort.execute();
-            Pangram.execute();
+            //Pangram.execute();
+            //PermutingTwoArrays.execute();
+            PermutingTwoArrays2.execute();
         }
     }
 }
